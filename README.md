@@ -1,4 +1,4 @@
-texteditor
+Codeeditor
 ==========
 Editor.CodeEditor is the main Program.
 
