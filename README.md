@@ -1,5 +1,7 @@
 CodeEditor
 ==========
+Please ignore the source codes outside the src folder. They are old remaining files from a forked project.
+
 Editor.CodeEditor is the main Program.
 
 Functionalities being worked on         :  Console Window.
